@@ -1,0 +1,13 @@
+#menu {
+	background: #000;
+	.menu {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-wrap: wrap;
+		// padding: 80px 0;
+		&--card {
+			margin: 20px 40px;
+		}
+	}
+}
